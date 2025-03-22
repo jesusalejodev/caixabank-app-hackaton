@@ -26,10 +26,9 @@ Este proyecto fue desarrollado como parte de una prueba técnica para el **Hacka
 - **Postman** para probar endpoints
 - **GitHub Actions** para la integración continua (CI/CD)
 
-## 📷 Capturas de Pantalla
+## Score Final
 A continuación se muestran capturas del resultado y el score obtenido durante la prueba:
 
-### Resultado Final
 ![Captura de Pantalla 1](./assets/score_1.png)
 ![Captura de Pantalla 2](./assets/score_2.png)
 
